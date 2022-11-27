@@ -35,7 +35,6 @@ public class Main {
         System.out.println("5 números inteiros aleatórios: " + lista_num);
         System.out.println("Maior dos 5 números: " + max);
         System.out.println("Menor dos 5 números: " + min);
-        System.out.println("Soma dos 5 números: " + sum);
         System.out.println("Média dos 5 números: " + avg);
 
         // Exercício 2: Desenvolva um programa que gera 5 números inteiros
